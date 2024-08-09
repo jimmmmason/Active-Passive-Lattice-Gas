@@ -14,7 +14,7 @@ This repository contains the code used to produce the data associated with [Dyna
 ## Travelling solutions
 
 `solve_full` solves Equations (S40) and (S41) to compute travelling profiles in finite domains.
-`solve_out_3`, `solve_out_5`, and `solve_out_6` sovle systems `outer0`, `outer1`, and `outer2` respectively, for travellign profiles in large domains. 
+`solve_out_3`, `solve_out_5`, and `solve_out_6` sovle systems `outer0`, `outer1`, and `outer2` respectively, for travelling profiles in large domains. 
 
 ## Phase diagram 
 
